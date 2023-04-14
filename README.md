@@ -1,6 +1,5 @@
 ---
 description: This template uses ARM to deploy an RStudio Server sitting behind Apache on Ubuntu 20 in Azure.
-page_type: sample
 products:
 - azure
 - azure-resource-manager
